@@ -1,6 +1,8 @@
 #Mehdi Hannoteau
 import utils
 
+
+
 if __name__ == "__main__":
     
     input_file_name = "data4"
